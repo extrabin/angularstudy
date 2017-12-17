@@ -1,6 +1,6 @@
-package eee;
+package dogs.aaa;
 
-public class Test {
+public class TestDog {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
