@@ -27,6 +27,8 @@ public class HelloWorld3 {
 		System.out.println("Master branch444 change2 in gittest");
 		
 		System.out.println("Master branch444 change3 in gittest");
+		
+		System.out.println("Master branch444 change4 in gittest");
 	}
 
 }
